@@ -1,0 +1,55 @@
+digraph network {
+
+// traceroute to kabar.kg (195.38.160.220), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)";
+"telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "100ge13-1.core2.chi1.he.net (184.105.223.177)";
+"100ge13-1.core2.chi1.he.net (184.105.223.177)" -> "100ge13-1.core2.chi1.he.net (184.105.223.177)";
+"100ge13-1.core2.chi1.he.net (184.105.223.177)" -> "100ge16-1.core1.nyc4.he.net (184.105.223.162)";
+"100ge16-1.core1.nyc4.he.net (184.105.223.162)" -> "100ge16-2.core1.lon2.he.net (72.52.92.165)";
+"100ge16-2.core1.lon2.he.net (72.52.92.165)" -> "100ge8-2.core1.dub1.he.net (184.105.65.246)";
+"100ge8-2.core1.dub1.he.net (184.105.65.246)" -> "100ge16-1.core1.ams1.he.net (184.105.213.65)";
+"100ge16-1.core1.ams1.he.net (184.105.213.65)" -> "5.187.73.23 (5.187.73.23)";
+"5.187.73.23 (5.187.73.23)" -> "178.210.33.83 (178.210.33.83)";
+"178.210.33.83 (178.210.33.83)" -> "178.210.33.83 (178.210.33.83)";
+"178.210.33.83 (178.210.33.83)" -> "178.210.33.83 (178.210.33.83)";
+"178.210.33.83 (178.210.33.83)" -> "128-AI-KRSU.asiainfo.kg (195.38.161.9)";
+"128-AI-KRSU.asiainfo.kg (195.38.161.9)" -> "128-AI-KRSU.asiainfo.kg (195.38.161.9)";
+"128-AI-KRSU.asiainfo.kg (195.38.161.9)" -> "kabar.kg (195.38.160.220)";
+
+// traceroute to news.day.az (95.86.135.36), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)";
+"telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)" -> "sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)";
+"sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)" -> "et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)";
+"et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)" -> "ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)";
+"ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)" -> "lo-0.8.rtsw2.ashb.net.internet2.edu (64.57.29.131)";
+"lo-0.8.rtsw2.ashb.net.internet2.edu (64.57.29.131)" -> "lo-0.8.rtsw2.ashb.net.internet2.edu (64.57.29.131)";
+"lo-0.8.rtsw2.ashb.net.internet2.edu (64.57.29.131)" -> "te7-1.br01.ash02.pccwbtn.net (206.126.236.88)";
+"te7-1.br01.ash02.pccwbtn.net (206.126.236.88)" -> "63-218-233-6.static.pccwglobal.net (63.218.233.6)";
+"63-218-233-6.static.pccwglobal.net (63.218.233.6)" -> "63-218-233-6.static.pccwglobal.net (63.218.233.6)";
+"63-218-233-6.static.pccwglobal.net (63.218.233.6)" -> "DeltaTelecom-gw.transtelecom.net (188.43.3.245)";
+"DeltaTelecom-gw.transtelecom.net (188.43.3.245)" -> "DeltaTelecom-gw.transtelecom.net (188.43.3.245)";
+"DeltaTelecom-gw.transtelecom.net (188.43.3.245)" -> "SmartSystem-DeltaTelecom-link-for-INTERNET-Xchange.AZ-IX.net (85.132.80.62)";
+"SmartSystem-DeltaTelecom-link-for-INTERNET-Xchange.AZ-IX.net (85.132.80.62)" -> "SmartSystem-DeltaTelecom-link-for-INTERNET-Xchange.AZ-IX.net (85.132.80.62)";
+"SmartSystem-DeltaTelecom-link-for-INTERNET-Xchange.AZ-IX.net (85.132.80.62)" -> "news.day.az (95.86.135.36)";
+}
