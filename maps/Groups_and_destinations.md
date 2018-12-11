@@ -21,6 +21,7 @@ We visited:
 * ubpost.mongolnews.mn
 * kabar.kg
 * news.day.az
+* amazon.jp
 
 ## Off by One
 
@@ -43,6 +44,10 @@ We visited:
 * blizzard.com
 * dndbeyond.com
 * pastebin.com
+* musescore.com
+* spotify.com
+* en.wikipedia.org
+* fireemblem.nintendo.com
 
 ## Just Sam
 
@@ -58,6 +63,11 @@ I visited:
 * royal.uk
 * valvesoftware.com
 * wikipedia.org
+* youtube.com
+* un.org
+* europa.eu
+* government.ru
+* auckland.ac.nz
 
 ## NP=P
 
@@ -111,3 +121,6 @@ I visited:
  * coolmathgames.com
  * miniclip.com
  * fafsa.gov
+ * digitalocean.com
+ * travis-ci.org
+ * foobar.withgoogle.com
