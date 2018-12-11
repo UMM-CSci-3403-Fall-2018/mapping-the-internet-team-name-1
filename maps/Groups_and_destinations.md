@@ -100,3 +100,6 @@ I visited:
  * ryomyong.com
  * berkeley.edu
  * epa.gov
+ * coolmathgames.com
+ * miniclip.com
+ * fafsa.gov
