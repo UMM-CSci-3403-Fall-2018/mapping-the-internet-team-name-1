@@ -57,3 +57,17 @@ Visited
 
 * reddit.com
 * facebook.com
+
+## Hamer Time
+
+Ethan Hamer
+
+I visited:
+ * iwastesomuchtime.com
+ * tumblr.com
+ * nasa.gov
+ * allegro.pl
+ * uriminzokkiri.com
+ * ryomyong.com
+ * berkeley.edu
+ * epa.gov
