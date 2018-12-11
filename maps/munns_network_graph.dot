@@ -1,0 +1,70 @@
+digraph network {
+
+// traceroute to www.amazon.com (52.222.210.216), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)";
+"telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)" -> "206.108.255.111 (206.108.255.111)";
+"206.108.255.111 (206.108.255.111)" -> "www.amazon.com (52.222.210.216)";
+
+// traceroute to www.uchile.cl (200.89.76.16), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)";
+"mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)";
+"sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)" -> "ae-2.4079.rtsw.chic.net.internet2.edu (162.252.70.132)";
+"ae-2.4079.rtsw.chic.net.internet2.edu (162.252.70.132)" -> "ae-2.4070.rtsw.atla.net.internet2.edu (198.71.45.61)";
+"ae-2.4070.rtsw.atla.net.internet2.edu (198.71.45.61)" -> "ae-2.4070.rtsw.atla.net.internet2.edu (198.71.45.61)";
+"ae-2.4070.rtsw.atla.net.internet2.edu (198.71.45.61)" -> "et-3-0-0.4079.rtsw.jack.net.internet2.edu (162.252.70.43)";
+"et-3-0-0.4079.rtsw.jack.net.internet2.edu (162.252.70.43)" -> "200.0.204.4 (200.0.204.4)";
+"200.0.204.4 (200.0.204.4)" -> "cl-pa.redclara.net (200.0.204.28)";
+"cl-pa.redclara.net (200.0.204.28)" -> "cl-pa.redclara.net (200.0.204.28)";
+"cl-pa.redclara.net (200.0.204.28)" -> "reuna-cl.redclara.net (200.0.204.152)";
+"reuna-cl.redclara.net (200.0.204.152)" -> "www.uchile.cl (200.89.76.16)";
+
+// traceroute to access.wa.gov (23.185.0.3), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)";
+"telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "access.wa.gov (23.185.0.3)";
+
+// traceroute to code.org (52.222.219.151), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)";
+"telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "206.108.255.111 (206.108.255.111)";
+"206.108.255.111 (206.108.255.111)" -> "code.org (52.222.219.151)";
+}
