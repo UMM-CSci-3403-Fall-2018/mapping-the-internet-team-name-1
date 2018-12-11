@@ -1,0 +1,24 @@
+digraph network {
+
+// traceroute to naver.com (125.209.222.142), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)";
+"mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)";
+"sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)" -> "ae-5.4079.rtsw.salt.net.internet2.edu (162.252.70.145)";
+"ae-5.4079.rtsw.salt.net.internet2.edu (162.252.70.145)" -> "lo-0.8.rtsw.losa.net.internet2.edu (64.57.20.255)";
+"lo-0.8.rtsw.losa.net.internet2.edu (64.57.20.255)" -> "hanaro-laix-3.hanaro.com (206.223.123.116)";
+"hanaro-laix-3.hanaro.com (206.223.123.116)" -> "39.115.132.130 (39.115.132.130)";
+"39.115.132.130 (39.115.132.130)" -> "110.9.3.15 (110.9.3.15)";
+"110.9.3.15 (110.9.3.15)" -> "110.9.3.15 (110.9.3.15)";
+"110.9.3.15 (110.9.3.15)" -> "naver.com (125.209.222.142)";
+}
