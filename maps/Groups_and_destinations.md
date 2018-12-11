@@ -43,6 +43,10 @@ We visited:
 * blizzard.com
 * dndbeyond.com
 * pastebin.com
+* musescore.com
+* spotify.com
+* en.wikipedia.org
+* fireemblem.nintendo.com
 
 ## Just Sam
 
