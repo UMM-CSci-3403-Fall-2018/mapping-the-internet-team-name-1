@@ -21,6 +21,7 @@ We visited:
 * ubpost.mongolnews.mn
 * kabar.kg
 * news.day.az
+* amazon.jp
 
 ## Off by One
 
