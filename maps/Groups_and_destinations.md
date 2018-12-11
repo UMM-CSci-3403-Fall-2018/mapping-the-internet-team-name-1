@@ -29,6 +29,18 @@ We visited:
 * gov.scot
 * opengameart.org
 * australia.gov.au
+* roosterteeth.com
+* desmos.com
+* omfgdogs.com
+* nasa.gov
+* smashbros.com
+* critrole.com
+* ruger.com
+* coolmathgames.com
+* steam.com
+* blizzard.com
+* dndbeyond.com
+* pastebin.com
 
 ## Just Sam
 
