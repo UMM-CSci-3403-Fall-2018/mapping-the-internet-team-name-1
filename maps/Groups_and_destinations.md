@@ -116,3 +116,4 @@ I visited:
  * digitalocean.com
  * travis-ci.org
  * foobar.withgoogle.com
+ * chinapandamorris.com
