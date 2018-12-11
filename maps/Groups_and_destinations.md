@@ -29,6 +29,18 @@ We visited:
 * gov.scot
 * opengameart.org
 * australia.gov.au
+* roosterteeth.com
+* desmos.com
+* omfgdogs.com
+* nasa.gov
+* smashbros.com
+* critrole.com
+* ruger.com
+* coolmathgames.com
+* steam.com
+* blizzard.com
+* dndbeyond.com
+* pastebin.com
 
 ## Just Sam
 
@@ -39,6 +51,11 @@ I visited:
 * warnerbros.com
 * nasa.gov
 * github.com
+* gov.uk
+* coolmathgames.com
+* royal.uk
+* valvesoftware.com
+* wikipedia.org
 
 ## NP=P
 
@@ -50,15 +67,23 @@ I visited
 * uchile.cl
 * access.wa.gov
 * code.org
+* github.com
+* cdc.gov
+* www.polinternational.polimi.it
+* www.president.pl
 
 ## String Theory
 
 Colin Rabe
 
-Visited
+Visited:
 
 * reddit.com
+* target.com
+* naver.com
+* huawei.com
 * facebook.com
+* target.com
 * npr.org
 * library.ca.gov
 
