@@ -1,0 +1,50 @@
+digraph network {
+
+// traceroute to www.president.pl (104.25.144.117), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)";
+"smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)";
+"mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "AS13335.micemn.net (206.108.255.45)";
+"AS13335.micemn.net (206.108.255.45)" -> "104.25.144.117 (104.25.144.117)";
+"104.25.144.117 (104.25.144.117)" -> "www.president.pl (104.25.144.117)";
+
+// traceroute to www.polinternational.polimi.it (131.175.187.157), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)";
+"mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)";
+"sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)" -> "et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)";
+"et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)" -> "ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)";
+"ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)" -> "et-2-0-0.4079.rtsw.ashb.net.internet2.edu (162.252.70.54)";
+"et-2-0-0.4079.rtsw.ashb.net.internet2.edu (162.252.70.54)" -> "internet2.mx1.lon.uk.geant.net (62.40.124.44)";
+"internet2.mx1.lon.uk.geant.net (62.40.124.44)" -> "ae6.mx1.lon2.uk.geant.net (62.40.98.37)";
+"ae6.mx1.lon2.uk.geant.net (62.40.98.37)" -> "ae2.mx1.gen.ch.geant.net (62.40.98.153)";
+"ae2.mx1.gen.ch.geant.net (62.40.98.153)" -> "ae2.mx1.gen.ch.geant.net (62.40.98.153)";
+"ae2.mx1.gen.ch.geant.net (62.40.98.153)" -> "ae4.mx1.mil2.it.geant.net (62.40.98.89)";
+"ae4.mx1.mil2.it.geant.net (62.40.98.89)" -> "garr-gw.mx1.mil2.it.geant.net (62.40.125.181)";
+"garr-gw.mx1.mil2.it.geant.net (62.40.125.181)" -> "rx2-mi1-rx2-mi3.mi3.garr.net (90.147.80.234)";
+"rx2-mi1-rx2-mi3.mi3.garr.net (90.147.80.234)" -> "rx2-mi3-ru-polimi.mi3.garr.net (193.206.129.114)";
+"rx2-mi3-ru-polimi.mi3.garr.net (193.206.129.114)" -> "131.175.55.65 (131.175.55.65)";
+"131.175.55.65 (131.175.55.65)" -> "131.175.55.65 (131.175.55.65)";
+"131.175.55.65 (131.175.55.65)" -> "131.175.184.218 (131.175.184.218)";
+"131.175.184.218 (131.175.184.218)" -> "131.175.184.218 (131.175.184.218)";
+"131.175.184.218 (131.175.184.218)" -> "www.polinternational.polimi.it (131.175.187.157)";
+}
