@@ -1,0 +1,72 @@
+digraph network {
+
+// traceroute to tdh.gov.tm (217.174.238.177), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)";
+"mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)" -> "statecob-gr-01-1-hu-0-7-0-0.1.northernlights.gigapop.net (146.57.252.206)";
+"statecob-gr-01-1-hu-0-7-0-0.1.northernlights.gigapop.net (146.57.252.206)" -> "chi-b22-link.telia.net (62.115.50.33)";
+"chi-b22-link.telia.net (62.115.50.33)" -> "nyk-bb4-link.telia.net (62.115.118.150)";
+"nyk-bb4-link.telia.net (62.115.118.150)" -> "prs-bb4-link.telia.net (80.91.251.101)";
+"prs-bb4-link.telia.net (80.91.251.101)" -> "ffm-bb4-link.telia.net (62.115.122.139)";
+"ffm-bb4-link.telia.net (62.115.122.139)" -> "ffm-b1-link.telia.net (62.115.116.164)";
+"ffm-b1-link.telia.net (62.115.116.164)" -> "rostelecom-ic-319651-ffm-b1.c.telia.net (62.115.151.97)";
+"rostelecom-ic-319651-ffm-b1.c.telia.net (62.115.151.97)" -> "87.226.151.234 (87.226.151.234)";
+"87.226.151.234 (87.226.151.234)" -> "178.34.146.238 (178.34.146.238)";
+"178.34.146.238 (178.34.146.238)" -> "217.174.235.45 (217.174.235.45)";
+"217.174.235.45 (217.174.235.45)" -> "217.174.235.35 (217.174.235.35)";
+"217.174.235.35 (217.174.235.35)" -> "217.174.238.177 (217.174.238.177)";
+"217.174.238.177 (217.174.238.177)" -> "tdh.gov.tm (217.174.238.177)";
+
+// traceroute to superior-ind.com (104.28.9.231), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)";
+"telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)" -> "statecob-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.214)";
+"statecob-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.214)" -> "r-equinix-isp-ae0-2245.wiscnet.net (216.56.50.57)";
+"r-equinix-isp-ae0-2245.wiscnet.net (216.56.50.57)" -> "ams-ix-chicago.as13335.net (206.108.115.16)";
+"ams-ix-chicago.as13335.net (206.108.115.16)" -> "104.28.9.231 (104.28.9.231)";
+"104.28.9.231 (104.28.9.231)" -> "superior-ind.com (104.28.9.231)";
+
+// traceroute to ubpost.mongolnews.mn (43.231.113.40), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)";
+"mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)" -> "statecob-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.214)";
+"statecob-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.214)" -> "chi-b22-link.telia.net (62.115.50.33)";
+"chi-b22-link.telia.net (62.115.50.33)" -> "nyk-bb4-link.telia.net (62.115.118.150)";
+"nyk-bb4-link.telia.net (62.115.118.150)" -> "prs-bb4-link.telia.net (80.91.251.101)";
+"prs-bb4-link.telia.net (80.91.251.101)" -> "ffm-bb4-link.telia.net (62.115.122.139)";
+"ffm-bb4-link.telia.net (62.115.122.139)" -> "ffm-b1-link.telia.net (62.115.116.158)";
+"ffm-b1-link.telia.net (62.115.116.158)" -> "newtelco-ic-310845-ffm-b1.c.telia.net (213.248.93.2)";
+"newtelco-ic-310845-ffm-b1.c.telia.net (213.248.93.2)" -> "br1.fra-cr2.uln.gemnet.mn (180.149.95.217)";
+"br1.fra-cr2.uln.gemnet.mn (180.149.95.217)" -> "180.149.92.6 (180.149.92.6)";
+"180.149.92.6 (180.149.92.6)" -> "180.149.92.14 (180.149.92.14)";
+"180.149.92.14 (180.149.92.14)" -> "180.149.95.146 (180.149.95.146)";
+"180.149.95.146 (180.149.95.146)" -> "43.231.113.40 (43.231.113.40)";
+"43.231.113.40 (43.231.113.40)" -> "ubpost.mongolnews.mn (43.231.113.40)";
+}
