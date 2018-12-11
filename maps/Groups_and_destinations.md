@@ -19,6 +19,8 @@ We visited:
 * tdh.gov.tm
 * superior-ind.com
 * ubpost.mongolnews.mn
+* kabar.kg
+* news.day.az
 
 ## Off by One
 
