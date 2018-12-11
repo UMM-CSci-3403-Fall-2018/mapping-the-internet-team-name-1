@@ -113,3 +113,6 @@ I visited:
  * coolmathgames.com
  * miniclip.com
  * fafsa.gov
+ * digitalocean.com
+ * travis-ci.org
+ * foobar.withgoogle.com
