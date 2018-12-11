@@ -57,3 +57,5 @@ Visited
 
 * reddit.com
 * facebook.com
+* npr.org
+* library.ca.gov
