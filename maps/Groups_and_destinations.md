@@ -53,9 +53,13 @@ I visited
 
 Colin Rabe
 
-Visited
+Visited:
 
 * reddit.com
+* target.com
+* naver.com
+* huawei.com
 * facebook.com
+* target.com
 * npr.org
 * library.ca.gov
