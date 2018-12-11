@@ -95,12 +95,15 @@ Visited:
 * naver.com
 * huawei.com
 * government.ru
+* govern.ad
 * gov.za
 * Brasil.gov.br
 * facebook.com
 * target.com
 * npr.org
 * library.ca.gov
+* australia.gov.au
+* gov.lk
 
 ## Hamer Time
 
