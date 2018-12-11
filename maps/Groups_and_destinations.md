@@ -5,16 +5,17 @@ and the domains they used `traceroute` to find paths to.
 
 ---
 
-## The Flaming Wombats
+## Sage Team Cheezit
 
-The Flaming Wombats are Prince, Leonard Cohen, and David Bowie.
+Sage Team Cheezit is Nick Plucker and Ethan Uphoff
 
 We visited:
 
-* this.and.that
-* one.or.the.other
-* stuff.and.nonsense
-* etc.etc.etc.
+* google.com
+* amazon.com
+* www.gov.cn
+* cia.gov
+* unimelb.edu.au
 
 
 ## Off by One
