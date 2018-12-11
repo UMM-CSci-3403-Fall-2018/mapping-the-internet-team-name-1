@@ -16,7 +16,9 @@ We visited:
 * www.gov.cn
 * cia.gov
 * unimelb.edu.au
-
+* tdh.gov.tm
+* superior-ind.com
+* ubpost.mongolnews.mn
 
 ## Off by One
 
@@ -37,6 +39,11 @@ I visited:
 * warnerbros.com
 * nasa.gov
 * github.com
+* gov.uk
+* coolmathgames.com
+* royal.uk
+* valvesoftware.com
+* wikipedia.org
 
 ## NP=P
 
@@ -48,6 +55,10 @@ I visited
 * uchile.cl
 * access.wa.gov
 * code.org
+* github.com
+* cdc.gov
+* www.polinternational.polimi.it
+* www.president.pl
 
 ## String Theory
 
