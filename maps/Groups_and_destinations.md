@@ -39,6 +39,11 @@ I visited:
 * warnerbros.com
 * nasa.gov
 * github.com
+* gov.uk
+* coolmathgames.com
+* royal.uk
+* valvesoftware.com
+* wikipedia.org
 
 ## NP=P
 
