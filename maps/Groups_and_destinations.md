@@ -125,3 +125,7 @@ I visited:
  * travis-ci.org
  * foobar.withgoogle.com
  * chinapandamorris.com
+ * stackoverflow.com
+ * docs.oracle.com
+ * docs.python.org
+ * clojure.org
