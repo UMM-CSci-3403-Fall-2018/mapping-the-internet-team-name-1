@@ -28,6 +28,16 @@ We visited:
 * opengameart.org
 * australia.gov.au
 
+## Just Sam
+
+Just Sam is just Sam Score
+
+I visited:
+* google.com
+* warnerbros.com
+* nasa.gov
+* github.com
+
 ## NP=P
 
 Matt Munns
@@ -38,3 +48,12 @@ I visited
 * uchile.cl
 * access.wa.gov
 * code.org
+
+## String Theory
+
+Colin Rabe
+
+Visited
+
+* reddit.com
+* facebook.com
