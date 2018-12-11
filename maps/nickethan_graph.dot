@@ -1,0 +1,101 @@
+digraph network {
+
+// traceroute to google.com (172.217.4.46), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)";
+"telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)" -> "statecob-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.214)";
+"statecob-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.214)" -> "r-equinix-isp-ae0-2245.wiscnet.net (216.56.50.57)";
+"r-equinix-isp-ae0-2245.wiscnet.net (216.56.50.57)" -> "72.14.218.180 (72.14.218.180)";
+"72.14.218.180 (72.14.218.180)" -> "108.170.243.174 (108.170.243.174)";
+"108.170.243.174 (108.170.243.174)" -> "216.239.47.87 (216.239.47.87)";
+"216.239.47.87 (216.239.47.87)" -> "lga15s46-in-f46.1e100.net (172.217.4.46)";
+"lga15s46-in-f46.1e100.net (172.217.4.46)" -> "google.com (172.217.4.46)";
+
+// traceroute to amazon.com (205.251.242.103), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)";
+"mtc-gr-01-hu0-5-0-1-102.northernlights.gigapop.net (146.57.255.171)" -> "sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)";
+"sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)" -> "sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)";
+"sdn-sw.minn-601-re.northernlights.gigapop.net (146.57.255.241)" -> "et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)";
+"et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)" -> "ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)";
+"ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)" -> "ae-20.4079.rtsw2.ashb.net.internet2.edu (162.252.70.128)";
+"ae-20.4079.rtsw2.ashb.net.internet2.edu (162.252.70.128)" -> "54.239.108.74 (54.239.108.74)";
+"54.239.108.74 (54.239.108.74)" -> "52.93.114.109 (52.93.114.109)";
+"52.93.114.109 (52.93.114.109)" -> "52.93.28.212 (52.93.28.212)";
+"52.93.28.212 (52.93.28.212)" -> "52.93.28.210 (52.93.28.210)";
+"52.93.28.210 (52.93.28.210)" -> "72.21.218.197 (72.21.218.197)";
+"72.21.218.197 (72.21.218.197)" -> "amazon.com (205.251.242.103)";
+
+// traceroute to www.gov.cn (65.153.158.200), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)";
+"smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)";
+"telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)" -> "mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)";
+"mtc-gr-01-1-hu-0-9-0-0.1.northernlights.gigapop.net (146.57.252.193)" -> "4.68.74.146 (4.68.74.146)";
+"4.68.74.146 (4.68.74.146)" -> "65.122.20.38 (65.122.20.38)";
+"65.122.20.38 (65.122.20.38)" -> "65.122.20.38 (65.122.20.38)";
+"65.122.20.38 (65.122.20.38)" -> "www.gov.cn (65.153.158.200)";
+
+// traceroute to cia.gov (23.54.39.59), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)";
+"telecomb-gr-01-hu-0-5-0-1-102.northernlights.gigapop.net (146.57.255.175)" -> "AS20940.micemn.net (206.108.255.84)";
+"AS20940.micemn.net (206.108.255.84)" -> "AS20940.micemn.net (206.108.255.84)";
+"AS20940.micemn.net (206.108.255.84)" -> "cia.gov (23.54.39.59)";
+
+// traceroute to unimelb.edu.au (43.245.43.59), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)";
+"telecomb-gr-01-hu-0-5-0-1-101.northernlights.gigapop.net (146.57.255.173)" -> "statecob-gr-01-1-hu-0-7-0-0.1.northernlights.gigapop.net (146.57.252.206)";
+"statecob-gr-01-1-hu-0-7-0-0.1.northernlights.gigapop.net (146.57.252.206)" -> "r-equinix-isp-ae0-2245.wiscnet.net (216.56.50.57)";
+"r-equinix-isp-ae0-2245.wiscnet.net (216.56.50.57)" -> "eqix-ch1.vocusconnect.com (208.115.136.142)";
+"eqix-ch1.vocusconnect.com (208.115.136.142)" -> "bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)";
+"bundle-153.cor02.lax01.ca.vocus.net (49.255.255.14)" -> "100g-0-0-0-0.cor02.sjc01.ca.vocus.net (49.255.255.3)";
+"100g-0-0-0-0.cor02.sjc01.ca.vocus.net (49.255.255.3)" -> "100g-0-0-0-0.cor01.sjc01.ca.vocus.net (49.255.255.4)";
+"100g-0-0-0-0.cor01.sjc01.ca.vocus.net (49.255.255.4)" -> "BE-200.cor02.syd04.nsw.VOCUS.net.au (49.255.255.11)";
+"BE-200.cor02.syd04.nsw.VOCUS.net.au (49.255.255.11)" -> "unimelb.edu.au (43.245.43.59)";
+}
