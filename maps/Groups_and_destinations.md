@@ -70,6 +70,9 @@ Visited:
 * target.com
 * naver.com
 * huawei.com
+* government.ru
+* gov.za
+* Brasil.gov.br
 * facebook.com
 * target.com
 * npr.org
