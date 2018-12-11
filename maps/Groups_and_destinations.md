@@ -63,6 +63,11 @@ I visited:
 * royal.uk
 * valvesoftware.com
 * wikipedia.org
+* youtube.com
+* un.org
+* europa.eu
+* government.ru
+* auckland.ac.nz
 
 ## NP=P
 
