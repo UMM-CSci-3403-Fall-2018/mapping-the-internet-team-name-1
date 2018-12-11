@@ -1,0 +1,21 @@
+digraph network {
+
+// traceroute to whitehouse.gov (104.65.36.134), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)";
+"smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)";
+"mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)" -> "telecomb-gr-01-1-hu-0-7-0-0.1.northernlights.gigapop.net (146.57.252.194)";
+"telecomb-gr-01-1-hu-0-7-0-0.1.northernlights.gigapop.net (146.57.252.194)" -> "chi-b21-link.telia.net (62.115.141.171)";
+"chi-b21-link.telia.net (62.115.141.171)" -> "chi-b21-link.telia.net (62.115.141.171)";
+"chi-b21-link.telia.net (62.115.141.171)" -> "ae-25.r08.chcgil09.us.bb.gin.ntt.net (129.250.8.61)";
+"ae-25.r08.chcgil09.us.bb.gin.ntt.net (129.250.8.61)" -> "ae-8.r07.chcgil09.us.bb.gin.ntt.net (129.250.2.221)";
+"ae-8.r07.chcgil09.us.bb.gin.ntt.net (129.250.2.221)" -> "whitehouse.gov (104.65.36.134)";
+}
