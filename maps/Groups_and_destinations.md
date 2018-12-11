@@ -19,6 +19,9 @@ We visited:
 * tdh.gov.tm
 * superior-ind.com
 * ubpost.mongolnews.mn
+* kabar.kg
+* news.day.az
+* amazon.jp
 
 ## Off by One
 
@@ -41,6 +44,10 @@ We visited:
 * blizzard.com
 * dndbeyond.com
 * pastebin.com
+* musescore.com
+* spotify.com
+* en.wikipedia.org
+* fireemblem.nintendo.com
 
 ## Just Sam
 
@@ -56,6 +63,11 @@ I visited:
 * royal.uk
 * valvesoftware.com
 * wikipedia.org
+* youtube.com
+* un.org
+* europa.eu
+* government.ru
+* auckland.ac.nz
 
 ## NP=P
 
@@ -82,7 +94,30 @@ Visited:
 * target.com
 * naver.com
 * huawei.com
+* government.ru
+* gov.za
+* Brasil.gov.br
 * facebook.com
 * target.com
 * npr.org
 * library.ca.gov
+
+## Hamer Time
+
+Ethan Hamer
+
+I visited:
+ * iwastesomuchtime.com
+ * tumblr.com
+ * nasa.gov
+ * allegro.pl
+ * uriminzokkiri.com
+ * ryomyong.com
+ * berkeley.edu
+ * epa.gov
+ * coolmathgames.com
+ * miniclip.com
+ * fafsa.gov
+ * digitalocean.com
+ * travis-ci.org
+ * foobar.withgoogle.com
