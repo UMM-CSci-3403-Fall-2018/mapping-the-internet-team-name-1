@@ -1,0 +1,27 @@
+digraph network {
+
+// traceroute to australia.gov.au (54.252.130.223), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)";
+"smn-mrs-cb-02-2.ggnet.umn.edu (192.168.210.214)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)";
+"mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)" -> "sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)";
+"sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)" -> "sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)";
+"sdn-sw.minn-611-trcps.northernlights.gigapop.net (146.57.255.243)" -> "et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)";
+"et-1-1-2.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)" -> "ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)";
+"ae-1.4079.rtsw.clev.net.internet2.edu (162.252.70.130)" -> "lo-0.8.rtsw2.ashb.net.internet2.edu (64.57.29.131)";
+"lo-0.8.rtsw2.ashb.net.internet2.edu (64.57.29.131)" -> "TenGE0-0-0-0.br01.tok13.pccwbtn.net (63.223.33.66)";
+"TenGE0-0-0-0.br01.tok13.pccwbtn.net (63.223.33.66)" -> "63-222-57-90.static.pccwglobal.net (63.222.57.90)";
+"63-222-57-90.static.pccwglobal.net (63.222.57.90)" -> "52.95.36.81 (52.95.36.81)";
+"52.95.36.81 (52.95.36.81)" -> "52.95.36.137 (52.95.36.137)";
+"52.95.36.137 (52.95.36.137)" -> "52.95.38.134 (52.95.38.134)";
+"52.95.38.134 (52.95.38.134)" -> "54.240.192.255 (54.240.192.255)";
+"54.240.192.255 (54.240.192.255)" -> "australia.gov.au (54.252.130.223)";
+}
