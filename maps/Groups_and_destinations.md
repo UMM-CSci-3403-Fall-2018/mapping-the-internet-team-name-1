@@ -55,6 +55,10 @@ I visited
 * uchile.cl
 * access.wa.gov
 * code.org
+* github.com
+* cdc.gov
+* www.polinternational.polimi.it
+* www.president.pl
 
 ## String Theory
 
