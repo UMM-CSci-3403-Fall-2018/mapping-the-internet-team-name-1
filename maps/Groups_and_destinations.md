@@ -129,3 +129,14 @@ I visited:
  * docs.oracle.com
  * docs.python.org
  * clojure.org
+ 
+ ## Forever Alone
+
+Liz Stevens
+
+* amazon.com
+* whitehouse.gov
+* plannedparenthood.org
+* ge.se
+* rosegal.com
+* bild.de
