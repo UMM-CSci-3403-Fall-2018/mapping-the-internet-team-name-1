@@ -16,7 +16,9 @@ We visited:
 * www.gov.cn
 * cia.gov
 * unimelb.edu.au
-
+* tdh.gov.tm
+* superior-ind.com
+* ubpost.mongolnews.mn
 
 ## Off by One
 
@@ -57,6 +59,8 @@ Visited
 
 * reddit.com
 * facebook.com
+* npr.org
+* library.ca.gov
 
 ## Hamer Time
 
