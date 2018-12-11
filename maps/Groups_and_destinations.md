@@ -29,6 +29,18 @@ We visited:
 * gov.scot
 * opengameart.org
 * australia.gov.au
+* roosterteeth.com
+* desmos.com
+* omfgdogs.com
+* nasa.gov
+* smashbros.com
+* critrole.com
+* ruger.com
+* coolmathgames.com
+* steam.com
+* blizzard.com
+* dndbeyond.com
+* pastebin.com
 
 ## Just Sam
 
@@ -64,9 +76,30 @@ I visited
 
 Colin Rabe
 
-Visited
+Visited:
 
 * reddit.com
+* target.com
+* naver.com
+* huawei.com
 * facebook.com
+* target.com
 * npr.org
 * library.ca.gov
+
+## Hamer Time
+
+Ethan Hamer
+
+I visited:
+ * iwastesomuchtime.com
+ * tumblr.com
+ * nasa.gov
+ * allegro.pl
+ * uriminzokkiri.com
+ * ryomyong.com
+ * berkeley.edu
+ * epa.gov
+ * coolmathgames.com
+ * miniclip.com
+ * fafsa.gov
