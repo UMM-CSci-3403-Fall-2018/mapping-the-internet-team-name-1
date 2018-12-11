@@ -19,6 +19,8 @@ We visited:
 * tdh.gov.tm
 * superior-ind.com
 * ubpost.mongolnews.mn
+* kabar.kg
+* news.day.az
 
 ## Off by One
 
@@ -86,7 +88,27 @@ Visited:
 * target.com
 * naver.com
 * huawei.com
+* government.ru
+* gov.za
+* Brasil.gov.br
 * facebook.com
 * target.com
 * npr.org
 * library.ca.gov
+
+## Hamer Time
+
+Ethan Hamer
+
+I visited:
+ * iwastesomuchtime.com
+ * tumblr.com
+ * nasa.gov
+ * allegro.pl
+ * uriminzokkiri.com
+ * ryomyong.com
+ * berkeley.edu
+ * epa.gov
+ * coolmathgames.com
+ * miniclip.com
+ * fafsa.gov

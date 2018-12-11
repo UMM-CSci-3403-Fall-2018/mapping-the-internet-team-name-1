@@ -1,0 +1,27 @@
+digraph network {
+
+// traceroute to Brasil.gov.br (170.246.252.243), 60 hops max, 60 byte packets
+"Dungeon" -> "starship33.morris.umn.edu (146.57.33.254)";
+"starship33.morris.umn.edu (146.57.33.254)" -> "mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)";
+"mrs-cb-01-v252.ggnet.umn.edu (146.57.237.85)" -> "mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)";
+"mrs-cb-02-v4000.ggnet.umn.edu (192.168.210.202)" -> "morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)";
+"morrisswhub-shbb-gi-2-0-22.r.state.mn.us (192.168.210.198)" -> "172.25.1.230 (172.25.1.230)";
+"172.25.1.230 (172.25.1.230)" -> "172.25.0.6 (172.25.0.6)";
+"172.25.0.6 (172.25.0.6)" -> "172.25.0.10 (172.25.0.10)";
+"172.25.0.10 (172.25.0.10)" -> "172.25.0.53 (172.25.0.53)";
+"172.25.0.53 (172.25.0.53)" -> "telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)";
+"telecomb-bn-02-te-0-0-2-2.ggnet.umn.edu (192.168.209.209)" -> "telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)";
+"telecomb-br-01-v3115.ggnet.umn.edu (134.84.136.14)" -> "mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)";
+"mtc-gr-01-hu0-5-0-1-101.northernlights.gigapop.net (146.57.255.169)" -> "chi-b22-link.telia.net (62.115.49.133)";
+"chi-b22-link.telia.net (62.115.49.133)" -> "atl-b22-link.telia.net (62.115.118.160)";
+"atl-b22-link.telia.net (62.115.118.160)" -> "atl-b24-link.telia.net (62.115.113.25)";
+"atl-b24-link.telia.net (62.115.113.25)" -> "mai-b1-link.telia.net (62.115.113.49)";
+"mai-b1-link.telia.net (62.115.113.49)" -> "mai-b1-link.telia.net (62.115.113.49)";
+"mai-b1-link.telia.net (62.115.113.49)" -> "algar-ic-328625-boca-b1.c.telia.net (213.248.97.149)";
+"algar-ic-328625-boca-b1.c.telia.net (213.248.97.149)" -> "algar-ic-328625-boca-b1.c.telia.net (213.248.97.149)";
+"algar-ic-328625-boca-b1.c.telia.net (213.248.97.149)" -> "200-170-133-098.static.ctbctelecom.com.br (200.170.133.98)";
+"200-170-133-098.static.ctbctelecom.com.br (200.170.133.98)" -> "177.14.2.113 (177.14.2.113)";
+"177.14.2.113 (177.14.2.113)" -> "177.15.192.170 (177.15.192.170)";
+"177.15.192.170 (177.15.192.170)" -> "177.15.192.170 (177.15.192.170)";
+"177.15.192.170 (177.15.192.170)" -> "Brasil.gov.br (170.246.252.243)";
+}
